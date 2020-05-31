@@ -7,7 +7,7 @@
     "\n",
     "In this notebook we will perform a [Sequence Tagging with a LSTM-CRF model](https://www.depends-on-the-definition.com/sequence-tagging-lstm-crf/) to extract the named entities from the annotated corpus.\n",
     "\n",
-    "<img src=\"https://raw.githubusercontent.com/floydhub/named-entity-recognition-template/master/images/ner-image.png\" width=\"800\" height=\"800\" align=\"center\"/>\n",
+    
     "\n",
     "Entity tags are encoded using a BIO annotation scheme, where each entity label is prefixed with either B or I letter. B- denotes the beginning and I- inside of an entity. The prefixes are used to detect multiword entities, e.g. sentence:\"World War II\", tags:(B-eve, I-eve, I-eve). All other words, which don’t refer to entities of interest, are labeled with the O tag.\n",
     "\n",
@@ -30,7 +30,7 @@
     "- Run the model on your own sentences!\n",
     "\n",
     
-    "- **Tip**: *Feel free to try this Notebook with your own data and on your own super awesome named entity recognition task.*\n",
+   "- **Tip**: *Feel free to try this Notebook with your own data and on your own super awesome named entity recognition task.*\n",
     "\n",
-    "Now, let's get started! 🚀\n",
-    "\n",
+   "Now, let's get started! 🚀\n",
+   "\n",
