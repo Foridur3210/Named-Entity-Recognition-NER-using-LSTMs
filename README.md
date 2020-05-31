@@ -5,10 +5,10 @@
     "\n",
     "### Predicting named entities of GMB(Groningen Meaning Bank) corpus\n",
     "\n",
-    "In this notebook we will perform a [Sequence Tagging with a LSTM-CRF model](https://www.depends-on-the-definition.com/sequence-tagging-lstm-crf/) to extract the named entities from the annotated corpus.\n",
+    "In this notebook we will perform a [Sequence Tagging with a LSTM-CRF model](https://www.depends-on-the-definition.com/sequence-tagging-lstm-crf/) to extract the named entities from the annotated corpus.",
     "\n",
     
-    "\n",
+   "\n",
     "Entity tags are encoded using a BIO annotation scheme, where each entity label is prefixed with either B or I letter. B- denotes the beginning and I- inside of an entity. The prefixes are used to detect multiword entities, e.g. sentence:\"World War II\", tags:(B-eve, I-eve, I-eve). All other words, which don’t refer to entities of interest, are labeled with the O tag.\n",
     "\n",
     "Tag | Label meaning | Example Given\n",
