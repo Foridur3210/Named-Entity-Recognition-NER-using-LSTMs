@@ -9,7 +9,7 @@
    In this notebook I will perform a [Sequence Tagging with a LSTM-CRF model](https://www.depends-on-the-definition.com/sequence-tagging-lstm-crf/) to extract the named entities from the annotated corpus."
     
        
-   - **Tip**: *Feel free to try this Notebook with your own data and on your own super awesome named entity recognition task.*,
+   
     
    Now, let's get started! 🚀
    
