@@ -1,6 +1,6 @@
 # Named-Entity-Recognition-NER-using-LSTMs
 
-"<img src=\"https://www.google.com/url?sa=i&url=https%3A%2F%2Fresearch.zalando.com%2Fwelcome%2Fmission%2Fresearch-projects%2Fflair-nlp%2F&psig=AOvVaw0u4sp5bXss_GsZx7XDDDj1&ust=1590995893035000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD5sKrI3ekCFQAAAAAdAAAAABAD" width=\"800\" height=\"800\" align=\"center\"/>\n"
+"<img src=\"https://github.com/Foridur3210/Named-Entity-Recognition-NER-using-LSTMs/blob/master/1_7DkqpU3E-E9yknyw9c7vCQ.png" width=\"800\" height=\"800\" align=\"center\"/>\n"
 
 [Named Enity Recognition](https://en.wikipedia.org/wiki/Named-entity_recognition) is one of the most common [NLP](https://en.wikipedia.org/wiki/Natural-language_processing) problems. The goal is classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.,
  
